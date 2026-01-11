@@ -5,5 +5,5 @@
   "update_type": "optional",
   "update_title": "Update Available",
   "update_message": "• Initial release\n• Stable playback\n• Lyrics support",
-  "apk_url": ""
+  "apk_url": "https://github.com/Kartik-ux-su/flacplayerpro-update-release/releases/download/v1.0.0/FlacPlayerPro-release.apk"
 }
