@@ -5,5 +5,5 @@
   "update_type": "optional",
   "update_title": "Update Available",
   "update_message": "",
-  "apk_url": "https://github.com/Kartik-ux-su/flacplayerpro-update-release/releases/download/v1.0.0/FlacPlayerPro-release.apk"
+  "apk_url": "https://raw.githubusercontent.com/Kartik-ux-su/flacplayerpro-update-release/main/FlacPlayerPro-latest.apk"
 }
