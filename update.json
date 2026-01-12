@@ -1,6 +1,6 @@
 {
-  "latest_version_code": 1,
-  "latest_version_name": "1.0.0",
-  "update_type": "optional",
-  "apk_url": "https://raw.githubusercontent.com/Kartik-ux-su/flacplayerpro-update-release/main/FlacPlayerPro-Latest.apk"
+    "latest_version_code":  5,
+    "latest_version_name":  "1.0.0",
+    "update_type":  "optional",
+    "apk_url":  "https://raw.githubusercontent.com/Kartik-ux-su/flacplayerpro-update-release/main/FlacPlayerPro-Latest.apk"
 }
