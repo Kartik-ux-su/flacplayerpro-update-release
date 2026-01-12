@@ -1,11 +1,6 @@
 {
-    "latest_version_code":  2,
-    "latest_version_name":  "1.0.1",
-    "min_supported_version":  1,
-    "update_type":  "optional",
-    "update_title":  "Update Available",
-    "update_message":  "- New song sorting system\n- Sort by title, artist, album, year \u0026 more\n- Tap sort button to flip order (A-Z / Z-A)\n- Smart grouping: skips \u0027The\u0027, \u0027A\u0027, \u0027An\u0027 at start\n- Accented letters sort correctly (é=e, ñ=n)\n- Settings moved to clean modular design\n- Faster sorting on large libraries",
-    "apk_url":  "https://raw.githubusercontent.com/Kartik-ux-su/flacplayerpro-update-release/main/FlacPlayerPro-latest.apk",
-    "apk_sha256":  "d6b8a3447eff33e038de480bc93d24e20c1ef551b64f728560c38b802d131653",
-    "delivery":  "sideload"
+  "latest_version_code": 1,
+  "latest_version_name": "1.0.0",
+  "update_type": "optional",
+  "apk_url": "https://raw.githubusercontent.com/Kartik-ux-su/flacplayerpro-update-release/main/FlacPlayerPro-Latest.apk"
 }
