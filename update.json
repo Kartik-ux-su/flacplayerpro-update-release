@@ -5,7 +5,7 @@
     "apk_url":  "https://raw.githubusercontent.com/Kartik-ux-su/flacplayerpro-update-release/main/FlacPlayerPro-Latest.apk",
     "apk_sha256":  "09441e54d1e493db9db620cd89ae03c802cc666b0b6b6d266d7db23102452492",
     "min_supported_version":  1,
-    "update_title":  "New: Audio State Indicator \u0026 Smart FPS",
-    "update_message":  "What\u0027s New in 2.0.2:\n\n• Audio State Indicator - New output indicator shows current audio processing state (Raw/Bit-Perfect, Resampling, DSP, Crossfade)\n\n• Smart FPS Management - Auto-detects your display\u0027s refresh rate and lets you choose FPS cap (60/90/120/144/165Hz) within device limits\n\n• Audio Info Sheet - Tap the output indicator to view detailed audio diagnostics including sample rate, bit depth, buffer status, and engine state\n\n• Enhanced Crossfade Tracking - Detailed reasons when crossfade is skipped (gapless album, format mismatch, last track, etc.)\n\n• Performance Improvements - Optimized frame rate handling for smoother UI on high refresh rate displays\n\n• Bug fixes and stability improvements",
+    "update_title":  "Crossfade Engine Fixed + Bluetooth Controls",
+    "update_message":  "What\u0027s New in 2.0.7:\n\n Fixed Crossfade Engine - Tracks now properly crossfade instead of skipping\n\n Bluetooth/Headphone Controls - Play/pause/next/prev buttons now work correctly with Android crossfade engine\n\n Notification Improvements - Better metadata display and proper state handling\n\n Auto Library Refresh - Music library automatically updates when files change\n\n Bug fixes and stability improvements",
     "delivery":  "sideload"
 }
