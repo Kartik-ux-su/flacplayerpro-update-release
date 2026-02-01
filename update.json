@@ -5,7 +5,7 @@
     "apk_url":  "https://raw.githubusercontent.com/Kartik-ux-su/flacplayerpro-update-release/main/FlacPlayerPro-Latest.apk",
     "apk_sha256":  "bff451dbac98b8c7dc63fc33c6b79ada0d4361f2819bd84c580892877013d55c",
     "min_supported_version":  1,
-    "update_title":  "Crossfade Engine Fixed + Bluetooth Controls",
-    "update_message":  "What\u0027s New in 2.0.7:\n\n Fixed Crossfade Engine - Tracks now properly crossfade instead of skipping\n\n Bluetooth/Headphone Controls - Play/pause/next/prev buttons now work correctly with Android crossfade engine\n\n Notification Improvements - Better metadata display and proper state handling\n\n Auto Library Refresh - Music library automatically updates when files change\n\n Bug fixes and stability improvements",
+    "update_title":  "Complete Modern UI Redesign",
+    "update_message":  "What's New in 2.1.1:\n\n🎨 Complete Modern UI Redesign\n• New glassmorphism and neumorphic card styles\n• Animated tabs, search bar, and list items\n• Beautiful now playing screen with rotating album art\n• Modern mini player with gradient progress bar\n\n🎨 New Theme System\n• 10 accent color presets (Teal, Ocean, Purple, Rose, Amber, Emerald, Coral, Indigo, Crimson, Mint)\n• 4 dark variants (Midnight, Charcoal, Navy, AMOLED)\n• Pure black AMOLED mode\n• Adjustable contrast levels\n\n✨ Smooth Animations Everywhere\n• Staggered list animations\n• Animated toggle switches\n• Pulse and wave loading indicators\n• Skeleton loaders\n\n🔧 Bug Fixes\n• Fixed MissingPluginException on startup\n• Improved round icon support for launchers",
     "delivery":  "sideload"
 }
