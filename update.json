@@ -1,11 +1,11 @@
 {
-    "latest_version_code":  36,
-    "latest_version_name":  "2.1.3",
+    "latest_version_code":  40,
+    "latest_version_name":  "2.1.7",
     "update_type":  "optional",
     "apk_url":  "https://raw.githubusercontent.com/Kartik-ux-su/flacplayerpro-update-release/main/FlacPlayerPro-Latest.apk",
-    "apk_sha256":  "d1e6c84ecd54f572a302777a498c4689fefcfd88b65659e5c2bd8d87649124c9",
+    "apk_sha256":  "e4d724c6210603c7d4683fd5c98a83ba2317fdc6d7a043a7628980a902b9ddba",
     "min_supported_version":  1,
-    "update_title":  "UI Polish \u0026 Performance Improvements",
-    "update_message":  "What\u0027s New in 2.1.3:\n\n🎵 Now Playing Improvements\n• Added 3-dot menu with track options (Add to Playlist, Go to Album/Artist, Share, Track Info)\n• Track info dialog shows sample rate, bit depth, duration\n\n📱 Mini Player Fixed\n• Mini player now shows whenever music is playing\n• Fixed visibility issues across all screens\n\n🔤 A-Z Quick Navigation\n• New alphabet rail on songs list for fast scrolling\n• Haptic feedback and smooth animations\n• Drag or tap to jump to any letter\n\n⚡ Performance Improvements\n• Faster list scrolling with increased cache\n• Removed animation delays for instant item display\n• Incremental library scanning (only rescans changed folders)\n\n📂 Add Music Button Fixed\n• FAB now properly positioned in bottom-right corner\n• Clean bottom sheet with all import options\n\n🔀 Sorting Options\n• Sort Songs by Title, Artist, Album, Year, Duration\n• Sort Albums by Name, Artist, Year, Tracks\n• Sort Artists by Name, Tracks\n• Ascending/descending toggle",
+    "update_title":  "Gesture Controls \u0026 OEM Notification Support",
+    "update_message":  "What\u0027s New in 2.1.5:\n\n👆 Swipe Gesture Controls\n• Swipe left/right on mini player to change songs\n• Swipe up on mini player to open fullscreen\n• Swipe left/right in fullscreen to change songs\n• Swipe up in fullscreen to toggle lyrics view\n• Swipe down in fullscreen to return to mini player\n• \u0027No lyrics available\u0027 popup when swiping up without lyrics\n\n🏷️ Quality Badge Enhancement\n• Quality tag (Hi-Res/CD/Lossless) now shown beside title\n• Consistent badge placement in both mini and fullscreen players\n• Clean, modern badge styling\n\n🔔 Enhanced Media Notification\n• New EnhancedMediaNotificationProvider for OEM SystemUI\n• Better support for Realme Live Alerts\n• Better support for Oppo Aqua Dynamics/ColorOS\n• Better support for Samsung One UI Media Panel\n• Better support for Xiaomi MIUI Media Controls\n• Rich metadata with artwork, duration, album info\n• Improved lockscreen and Quick Settings controls\n\n📜 Audio Info System\n• Three-section display (SOURCE/PROCESSING/OUTPUT)\n• Real-time audio format detection\n• Output path indicator (DIRECT/MIXER/OFFLOAD)\n• Device detection (Speaker/Bluetooth/USB DAC)\n\n⚡ Performance Improvements\n• Fixed home screen scroll animation delay\n• Added cacheExtent for smoother list scrolling\n• Optimized gesture handling to prevent conflicts",
     "delivery":  "sideload"
 }
