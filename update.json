@@ -1,11 +1,11 @@
 {
-    "latest_version_code":  35,
-    "latest_version_name":  "2.1.2",
+    "latest_version_code":  36,
+    "latest_version_name":  "2.1.3",
     "update_type":  "optional",
     "apk_url":  "https://raw.githubusercontent.com/Kartik-ux-su/flacplayerpro-update-release/main/FlacPlayerPro-Latest.apk",
-    "apk_sha256":  "0f40bae0c5c7c8b858af11d05ccc870cda75697180a8e97cea721681d51b99f7",
+    "apk_sha256":  "d1e6c84ecd54f572a302777a498c4689fefcfd88b65659e5c2bd8d87649124c9",
     "min_supported_version":  1,
-    "update_title":  "Complete Modern UI Redesign",
-    "update_message":  "What\u0027s New in 2.1.1:\n\n🎨 Complete Modern UI Redesign\n• New glassmorphism and neumorphic card styles\n• Animated tabs, search bar, and list items\n• Beautiful now playing screen with rotating album art\n• Modern mini player with gradient progress bar\n\n🎨 New Theme System\n• 10 accent color presets (Teal, Ocean, Purple, Rose, Amber, Emerald, Coral, Indigo, Crimson, Mint)\n• 4 dark variants (Midnight, Charcoal, Navy, AMOLED)\n• Pure black AMOLED mode\n• Adjustable contrast levels\n\n✨ Smooth Animations Everywhere\n• Staggered list animations\n• Animated toggle switches\n• Pulse and wave loading indicators\n• Skeleton loaders\n\n🔧 Bug Fixes\n• Fixed MissingPluginException on startup\n• Improved round icon support for launchers",
+    "update_title":  "UI Polish \u0026 Performance Improvements",
+    "update_message":  "What\u0027s New in 2.1.3:\n\n🎵 Now Playing Improvements\n• Added 3-dot menu with track options (Add to Playlist, Go to Album/Artist, Share, Track Info)\n• Track info dialog shows sample rate, bit depth, duration\n\n📱 Mini Player Fixed\n• Mini player now shows whenever music is playing\n• Fixed visibility issues across all screens\n\n🔤 A-Z Quick Navigation\n• New alphabet rail on songs list for fast scrolling\n• Haptic feedback and smooth animations\n• Drag or tap to jump to any letter\n\n⚡ Performance Improvements\n• Faster list scrolling with increased cache\n• Removed animation delays for instant item display\n• Incremental library scanning (only rescans changed folders)\n\n📂 Add Music Button Fixed\n• FAB now properly positioned in bottom-right corner\n• Clean bottom sheet with all import options\n\n🔀 Sorting Options\n• Sort Songs by Title, Artist, Album, Year, Duration\n• Sort Albums by Name, Artist, Year, Tracks\n• Sort Artists by Name, Tracks\n• Ascending/descending toggle",
     "delivery":  "sideload"
 }
