@@ -1,9 +1,9 @@
 {
-    "latest_version_code":  21,
-    "latest_version_name":  "2.0.12",
+    "latest_version_code":  22,
+    "latest_version_name":  "2.0.13",
     "update_type":  "optional",
     "apk_url":  "https://raw.githubusercontent.com/Kartik-ux-su/flacplayerpro-update-release/main/FlacPlayerPro-Latest.apk",
-    "apk_sha256":  "ded1533717e49b229076a1bfec43354b2f586b4c90ea7d595b2e141c8bf7dfbe",
+    "apk_sha256":  "f64a2ba1a62f287fb606019b71ca463b89b00423dd8d09e70a7d89da0456c5fa",
     "min_supported_version":  1,
     "update_title":  "Crossfade Engine Fixed + Bluetooth Controls",
     "update_message":  "What\u0027s New in 2.0.7:\n\n Fixed Crossfade Engine - Tracks now properly crossfade instead of skipping\n\n Bluetooth/Headphone Controls - Play/pause/next/prev buttons now work correctly with Android crossfade engine\n\n Notification Improvements - Better metadata display and proper state handling\n\n Auto Library Refresh - Music library automatically updates when files change\n\n Bug fixes and stability improvements",
