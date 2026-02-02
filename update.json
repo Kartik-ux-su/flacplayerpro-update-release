@@ -1,9 +1,9 @@
 {
-    "latest_version_code":  44,
-    "latest_version_name":  "2.1.11",
+    "latest_version_code":  45,
+    "latest_version_name":  "2.1.12",
     "update_type":  "optional",
     "apk_url":  "https://raw.githubusercontent.com/Kartik-ux-su/flacplayerpro-update-release/main/FlacPlayerPro-Latest.apk",
-    "apk_sha256":  "462ea89e49c96d1bddb7bc007732ee5e699fabefb63d6e3cae086128c5b2697d",
+    "apk_sha256":  "ef8c67d4e338c38086da9118cccae10ee59d79eb57c0f36de3f47d71ef9d14fa",
     "min_supported_version":  1,
     "update_title":  "Gesture Controls \u0026 OEM Notification Support",
     "update_message":  "What\u0027s New in 2.1.7:\n\n👆 Swipe Gesture Controls\n• Swipe left/right on mini player to change songs\n• Swipe up on mini player to open fullscreen\n• Swipe left/right in fullscreen to change songs\n• Swipe up in fullscreen to toggle lyrics view\n• Swipe down in fullscreen to return to mini player\n• \u0027No lyrics available\u0027 popup when swiping up without lyrics\n\n🏷️ Quality Badge Enhancement\n• Quality tag (Hi-Res/CD/Lossless) now shown beside title\n• Consistent badge placement in both mini and fullscreen players\n• Clean, modern badge styling\n\n🔔 Enhanced Media Notification\n• New EnhancedMediaNotificationProvider for OEM SystemUI\n• Better support for Realme Live Alerts\n• Better support for Oppo Aqua Dynamics/ColorOS\n• Better support for Samsung One UI Media Panel\n• Better support for Xiaomi MIUI Media Controls\n• Rich metadata with artwork, duration, album info\n• Improved lockscreen and Quick Settings controls\n\n📜 Audio Info System\n• Three-section display (SOURCE/PROCESSING/OUTPUT)\n• Real-time audio format detection\n• Output path indicator (DIRECT/MIXER/OFFLOAD)\n• Device detection (Speaker/Bluetooth/USB DAC)\n\n⚡ Performance Improvements\n• Fixed home screen scroll animation delay\n• Added cacheExtent for smoother list scrolling\n• Optimized gesture handling to prevent conflicts",
