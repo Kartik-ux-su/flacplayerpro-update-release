@@ -1,9 +1,9 @@
 {
-    "latest_version_code":  48,
-    "latest_version_name":  "2.1.15",
+    "latest_version_code":  49,
+    "latest_version_name":  "2.1.16",
     "update_type":  "optional",
     "apk_url":  "https://raw.githubusercontent.com/Kartik-ux-su/flacplayerpro-update-release/main/FlacPlayerPro-Latest.apk",
-    "apk_sha256":  "dd4fe859e04f8048968325d06d3cbd0a044132889e4b7432f381366a0994ce94",
+    "apk_sha256":  "9432f01b2dd749ba0af2be418e224e62701d0284585f4f65fae65f89a43983cc",
     "min_supported_version":  1,
     "update_title":  "Poweramp-Level Settings Architecture",
     "update_message":  "What\u0027s New in 2.2.0:\n\n⚙️ Hierarchical Settings System\n• Brand new animated settings screen with 4 categories\n• Glassmorphism cards with gradient icons and glow effects\n• Spring physics animated switches and sliders\n• Smooth morph animations when expanding categories\n\n🔊 Audio Engine Settings\n• Output Method selection (AudioTrack/AAudio/OpenSL ES)\n• Hi-Res output support (24-bit/32-bit/Float32)\n• Resampler selection (Linear/Cubic/Sinc/SoX VHQ)\n• Dithering options (RPDF/TPDF/Noise Shaped)\n• Configurable buffer size (20-500ms)\n\n🎚️ Mix \u0026 Fade Settings\n• Crossfade duration (0.1-15 seconds)\n• Fade on Seek toggle\n• Gapless playback toggle\n• ReplayGain modes (Track/Album/Auto)\n• ReplayGain preamp adjustment (-15 to +15 dB)\n\n🎛️ DSP \u0026 Hardware Settings\n• Parametric EQ placeholder (10-32 bands)\n• Limiter with threshold control\n• Direct Volume Control (hardware bypass)\n• Mono mix toggle\n• Left/Right balance control\n\n🎨 Theme \u0026 UI Settings\n• Material You dynamic colors toggle\n• Glassmorphism effect toggle with blur intensity\n• Animation speed control (Slow/Normal/Fast/Instant)\n• Album art color sync toggle\n• Waveform display toggle\n\n⚡ Hot-Update Engine\n• Settings apply instantly without stopping playback\n• Reactive Stream-based architecture\n• Platform channel for real-time native DSP updates\n• Atomic settings in Kotlin engine\n\n🎨 ThemeService Improvements\n• Album art color extraction via PaletteGenerator\n• AMOLED black mode support\n• Surface transparency control\n• Glassmorphic decoration helpers",
