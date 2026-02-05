@@ -1,9 +1,9 @@
 {
-    "latest_version_code":  52,
-    "latest_version_name":  "2.1.19",
+    "latest_version_code":  53,
+    "latest_version_name":  "2.1.20",
     "update_type":  "optional",
     "apk_url":  "https://raw.githubusercontent.com/Kartik-ux-su/flacplayerpro-update-release/main/FlacPlayerPro-Latest.apk",
-    "apk_sha256":  "698ef398305567089cdb665c8402606d220acd18eabaa89cf3fe202148c942f7",
+    "apk_sha256":  "e1507a51c4b2b6bb076aded06abeaa7dac75b26047bc0ff5f572ede2f10f83bd",
     "min_supported_version":  1,
     "update_title":  "Advanced Settings \u0026 Update UI Overhaul",
     "update_message":  "What\u0027s New in 2.2.0:\n\n⚙️ Advanced Settings Screen\n• New Poweramp-style hierarchical settings with 6 categories\n• Audio Engine, Mix \u0026 Fade, DSP \u0026 Hardware, Theme \u0026 UI\n• Player \u0026 Artwork customization with FAB icon/size controls\n• Fonts \u0026 Lists density settings\n• Glassmorphism cards with gradient icons and glow effects\n• Spring physics animated switches and sliders\n\n🔄 Beautiful Update UI\n• Redesigned update section in Settings with gradient card\n• Shows current version and available update version\n• \"What\u0027s New\" changelog preview with expand option\n• Download progress bar with percentage indicator\n• Different visual states for mandatory vs optional updates\n• One-tap Check for Updates / Download \u0026 Install button\n\n🎯 FAB Customization\n• Choose from 5 icon styles (Music Note+, Plus, Folder+, Library, Queue)\n• 4 size options (Small 48dp, Medium 56dp, Large 64dp, XL 72dp)\n• Settings persist and apply instantly\n• Animated glow effect with accent colors\n\n💾 Queue Persistence\n• Full queue saved on app exit/background\n• Restores queue, position, shuffle, and repeat modes\n• Resumes playback state on app restart\n\n🐛 Bug Fixes\n• Fixed missing imports causing FAB settings to not work\n• Fixed ExtendedAudioSettingsService not connected to UI\n• Added proper navigation to Advanced Settings screen\n• Fixed reactive streams to emit initial values correctly\n\n🎨 UI/UX Improvements\n• Smoother animations throughout the app\n• Better visual feedback on settings changes\n• Consistent gradient styling across all cards",
