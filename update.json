@@ -1,9 +1,9 @@
 {
-    "latest_version_code":  58,
-    "latest_version_name":  "2.1.25",
+    "latest_version_code":  59,
+    "latest_version_name":  "2.1.26",
     "update_type":  "optional",
     "apk_url":  "https://raw.githubusercontent.com/Kartik-ux-su/flacplayerpro-update-release/main/FlacPlayerPro-Latest.apk",
-    "apk_sha256":  "3c396d19d8c21038996a952cf3200e742eed8f7a685ceb6366c10161ee710ef2",
+    "apk_sha256":  "2f31b8f894cb66cc1709f8c46510028dee11c6f91b617435146aa2108022de65",
     "min_supported_version":  1,
     "update_title":  "Audio Engine \u0026 Compiler Fixes",
     "update_message":  "What\u0027s New:\n\n🔧 Audio Engine Fixes\n• Fixed crossfade duration not working (was stuck at ~5 sec)\n• Crossfade now properly uses your selected 1-12 second duration\n• Audio settings now correctly connected to playback engine\n• Settings changes apply immediately without restart\n\n🎛️ Supreme Settings Improvements\n• Audio Settings tab now uses correct service backend\n• Crossfade, Gapless, ReplayGain all properly functional\n• Added Fade on Pause/Seek toggle options\n• Added Crossfade on Skip toggle option\n• Fixed ReplayGain mode selector\n\n📱 UI Fixes\n• Fixed update complete popup overflow on long changelogs\n• Changelog now scrollable with max height constraint\n• Better layout for What\u0027s New dialog\n\n🐛 Compiler \u0026 Bug Fixes\n• Fixed FlacMetadata ambiguous import conflict\n• Fixed ThemeCustomizationService.current → .settings\n• Fixed gradientPreset → playerGradientPreset\n• Added description getter to TabBackgroundStyle\n• Fixed ReplayGainModeOption.auto → smart enum\n• All audio settings persist and reload correctly",
