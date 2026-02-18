@@ -1,0 +1,20 @@
+{
+  "latest_version_code": 2,
+  "latest_version_name": "1.0.1",
+  "update_type": "optional",
+  "apk_url": "https://github.com/Kartik-ux-su/flacplayerpro-update-release/releases/download/latest/FlacPlayer-Latest.apk",
+  "apk_sha256": "ddbf3f2fa6243fd372f2d7453806b859bc76b70c4e800de7a5827bb36de6e60e",
+  "min_supported_version": 1,
+  "update_title": "Audio Engine & Compiler Fixes",
+  "update_message": "• Fixed audio engine playback issues\n• Improved shuffle/repeat persistence\n• Settings now remember on app restart\n• Search shows album/artist artwork\n• Update icon always visible in Settings\n• Smaller app icon on launcher\n• Performance improvements",
+  "delivery": "sideload",
+  "changelog": [
+    "Fixed audio engine playback issues",
+    "Improved shuffle/repeat persistence", 
+    "Settings now remember on app restart",
+    "Search shows album/artist artwork",
+    "Update icon always visible in Settings",
+    "Smaller app icon on launcher",
+    "Performance improvements"
+  ]
+}
