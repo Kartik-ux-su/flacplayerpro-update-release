@@ -1,19 +1,14 @@
-{
-  "latest_version_code": 3,
-  "latest_version_name": "1.0.2",
-  "update_type": "optional",
-  "apk_url": "https://github.com/Kartik-ux-su/flacplayerpro-update-release/releases/download/latest/FlacPlayer-Latest.apk",
-  "apk_sha256": "",
-  "min_supported_version": 1,
-  "update_title": "Settings Redesign & Code Cleanup",
-  "update_message": "• Redesigned settings screen with clean section headings\n• Collapsible large app bar — no more scroll overlap\n• Smooth stagger animations on settings sections\n• Fixed 41 flutter analyzer warnings & errors\n• Cleaner flat layout matching theme appearance\n• Performance improvements",
-  "delivery": "sideload",
-  "changelog": [
-    "Redesigned settings screen with clean section headings",
-    "Collapsible large app bar — no more scroll overlap",
-    "Smooth stagger animations on settings sections",
-    "Fixed 41 flutter analyzer warnings & errors",
-    "Cleaner flat layout matching theme appearance",
-    "Performance improvements"
-  ]
+﻿{
+    "latest_version_code":  4,
+    "latest_version_name":  "1.0.3",
+    "update_type":  "optional",
+    "apk_url":  "https://github.com/Kartik-ux-su/flacplayerpro-update-release/releases/download/latest/FlacPlayer-Latest.apk",
+    "apk_sha256":  "70e4073271b57d3a886c413dad75a5fea8535907507a942c630cbfc3b15f5f1d",
+    "min_supported_version":  1,
+    "update_title":  "v1.0.3 - Fixed Bugs",
+    "update_message":  "* Fixed Bugs",
+    "delivery":  "sideload",
+    "changelog":  [
+                      "Fixed Bugs"
+                  ]
 }
