@@ -3,7 +3,7 @@
     "latest_version_name":  "2.1.00",
     "update_type":  "optional",
     "apk_url":  "https://github.com/Kartik-ux-su/flacplayerpro-update-release/releases/download/latest/FlacPlayerPro-Latest.apk",
-    "apk_sha256":  "ddbf3f2fa6243fd372f2d7453806b859bc76b70c4e800de7a5827bb36de6e60e",
+    "apk_sha256":  "2f31b8f894cb66cc1709f8c46510028dee11c6f91b617435146aa2108022de65",
     "min_supported_version":  1,
     "update_title":  "Audio Engine \u0026 Compiler Fixes",
     "update_message":  "New update available with audio engine and compiler fixes. Please update to the latest version for improved performance and stability.",
