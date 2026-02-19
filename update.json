@@ -1,14 +1,14 @@
 ﻿{
-    "latest_version_code":  4,
-    "latest_version_name":  "1.0.3",
+    "latest_version_code":  5,
+    "latest_version_name":  "1.0.4",
     "update_type":  "optional",
     "apk_url":  "https://github.com/Kartik-ux-su/flacplayerpro-update-release/releases/download/latest/FlacPlayer-Latest.apk",
-    "apk_sha256":  "70e4073271b57d3a886c413dad75a5fea8535907507a942c630cbfc3b15f5f1d",
+    "apk_sha256":  "bb0b74f813e2971c6f6a16faab57a633bec08cbec71609a0e3df54b79bbe3b15",
     "min_supported_version":  1,
-    "update_title":  "v1.0.3 - Fixed Bugs",
-    "update_message":  "* Fixed Bugs",
+    "update_title":  "v1.0.4 - Bug fixes and performance improvements",
+    "update_message":  "* Bug fixes and performance improvements",
     "delivery":  "sideload",
     "changelog":  [
-                      "Fixed Bugs"
+                      "Bug fixes and performance improvements"
                   ]
 }
